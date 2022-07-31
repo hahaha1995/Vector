@@ -1,0 +1,3 @@
+/Users/xiao/Documents/code_projects/Vector/cmake-build-debug/CMakeFiles/Vector.dir
+/Users/xiao/Documents/code_projects/Vector/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiao/Documents/code_projects/Vector/cmake-build-debug/CMakeFiles/rebuild_cache.dir
